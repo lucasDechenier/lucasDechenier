@@ -6,8 +6,8 @@ Hi! :blush: My name is Lucas Dechenier, I'm 21 years old and I live in João Pes
 
 - 🔭 I’m currently working on Holmes, RedSpark.io
 - 🌱 I’m currently learning about Vue.js
-- 💻 Currently studying systems for internet at UNIPÊ
-- 💬 I have experience with Node.js and Vue.js.
+- 💻 Majored in Internet Systems
+- 💬 I have experience with Node.js, Vue.js and Ruby on Rails.
 
 <div>
   <a href="https://github.com/lucasDechenier">
