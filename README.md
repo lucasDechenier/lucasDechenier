@@ -28,6 +28,3 @@ Hi! :blush: My name is Lucas Dechenier, I'm 21 years old and I live in João Pes
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="rails" width="50" height="50" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="50" height="50" />&nbsp;
 </p>
-<div>
-  <img src="https://github.com/lucasDechenier/lucasDechenier/blob/output/github-contribution-grid-snake.svg"/>&nbsp;
-</div>
