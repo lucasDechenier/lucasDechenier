@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/lucas-dechenier-14821a175" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 # Hi there 👋
 
-Hi! :blush: My name is Lucas Dechenier, I'm 21 years old and I live in João Pessoa / Brazil.
+Hi! :blush: My name is Lucas Dechenier, I'm 24 years old and I live in João Pessoa / Brazil.
 
 - 🔭 I’m currently working on Holmes, RedSpark.io
 - 🌱 I’m currently learning about Vue.js
